@@ -26,7 +26,6 @@ Another difficulty encountered was printing the pivot table from a dataframe. Th
 
 ### Recommendations for Future Analysis
 Reducing the amount of drivers in Urban cities would increase the average fare per driver for these drivers.
-One additional 
 ### Additional Analysis 1
 
 * Description of Approach
